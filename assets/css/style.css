@@ -1,0 +1,28 @@
+/* cuerpo*/
+.container{
+    font-family: 'Cabin', sans-serif;
+}
+
+/* seccion 1*/
+.img1{
+    width:100%;
+}
+
+/* seccion 2*/
+
+/* seccion 3*/
+.toggle {
+    color: red;
+}
+
+/*seccion 5*/
+.fondo{
+    background-color: #DC3545;
+    padding: 10%;
+   }
+   .text1{
+    margin-top: 10%;
+  }
+  .empezar{
+   width: 250px;
+  }
